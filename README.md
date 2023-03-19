@@ -1,0 +1,2 @@
+# Global-Population-Insights-2023-An-EDA
+This project provides a comprehensive analysis of the world's population trends in 2023. Using the power of Python and its data science libraries, the data was processed, cleaned, and visualized to uncover meaningful insights. The goal of this project is to gain a deeper understanding of the current demographic landscape and answer important questions about the world's population in 2023.
